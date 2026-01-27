@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        قم بإضافة مفتاح Google Maps API هنا
+        تأكد أن المفتاح مفعل للـ SHA1 و package name: com.example.mishwar
+    -->
+    <string name="google_maps_key">AIzaSyAzNIFn8dcbCEM2cMBm25MvnymS4eCtI5E</string>
+</resources>
